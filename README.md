@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iComet13
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning unity and pixel art
+- 📫 Discord: iComet13#3725
